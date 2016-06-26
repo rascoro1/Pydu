@@ -6,6 +6,7 @@ Pydu.py is the base object of Pydu. Pydu is a simple idea to determine file size
 
 # Pyducl
 Pyducl.py is the wrapper for Pydu so one can use pydu in the command line.
+![Alt text](Usage_Pyducl.png "Optional Title")
 
 
 
