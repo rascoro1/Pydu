@@ -9,5 +9,7 @@ Pydu.py is the base object of Pydu. Pydu is a simple class to determine file siz
 Pyducl.py is the Command Line wrapper for Pydu.py 
 ![Alt text](Usage_Pyducl.png "Optional Title")
 
+Showing what it displays, (Human Readable Option)
+![Alt text](Pyducl_used.png "Optional Title")
 
 
